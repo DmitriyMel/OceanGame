@@ -1,0 +1,28 @@
+C:\Downloads\Projects VS\Practise\EcoProject\bin\Debug\EcoProject.exe.config
+C:\Downloads\Projects VS\Practise\EcoProject\bin\Debug\EcoProject.exe
+C:\Downloads\Projects VS\Practise\EcoProject\bin\Debug\EcoProject.pdb
+C:\Downloads\Projects VS\Practise\EcoProject\obj\Debug\EcoProject.csproj.AssemblyReference.cache
+C:\Downloads\Projects VS\Practise\EcoProject\obj\Debug\EcoProject.csproj.CoreCompileInputs.cache
+C:\Downloads\Projects VS\Practise\EcoProject\obj\Debug\EcoProject.exe
+C:\Downloads\Projects VS\Practise\EcoProject\obj\Debug\EcoProject.pdb
+C:\Users\User\Desktop\EcoProject\bin\Debug\EcoProject.exe.config
+C:\Users\User\Desktop\EcoProject\bin\Debug\EcoProject.exe
+C:\Users\User\Desktop\EcoProject\bin\Debug\EcoProject.pdb
+C:\Users\User\Desktop\EcoProject\obj\Debug\EcoProject.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\EcoProject\obj\Debug\EcoProject.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\EcoProject\obj\Debug\EcoProject.exe
+C:\Users\User\Desktop\EcoProject\obj\Debug\EcoProject.pdb
+C:\Users\User\Desktop\Новая папка (3)\EcoProject\bin\Debug\EcoProject.exe.config
+C:\Users\User\Desktop\Новая папка (3)\EcoProject\bin\Debug\EcoProject.exe
+C:\Users\User\Desktop\Новая папка (3)\EcoProject\bin\Debug\EcoProject.pdb
+C:\Users\User\Desktop\Новая папка (3)\EcoProject\obj\Debug\EcoProject.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Новая папка (3)\EcoProject\obj\Debug\EcoProject.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Новая папка (3)\EcoProject\obj\Debug\EcoProject.exe
+C:\Users\User\Desktop\Новая папка (3)\EcoProject\obj\Debug\EcoProject.pdb
+C:\Users\User\Desktop\Прочерки\bin\Debug\EcoProject.exe.config
+C:\Users\User\Desktop\Прочерки\bin\Debug\EcoProject.exe
+C:\Users\User\Desktop\Прочерки\bin\Debug\EcoProject.pdb
+C:\Users\User\Desktop\Прочерки\obj\Debug\EcoProject.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Прочерки\obj\Debug\EcoProject.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Прочерки\obj\Debug\EcoProject.exe
+C:\Users\User\Desktop\Прочерки\obj\Debug\EcoProject.pdb
